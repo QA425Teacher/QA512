@@ -1,5 +1,4 @@
-Hello World!
-git config --global user.name "QA512_Vadim"
-git config --global user.email "vadimbnx1906@gmail.com"
+Hello wourld!
 git status
+cd gitcmd
 
