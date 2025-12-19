@@ -1,0 +1,4 @@
+Hello wourld!
+git status
+cd gitcmd
+
